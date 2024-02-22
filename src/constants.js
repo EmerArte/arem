@@ -27,6 +27,10 @@ export const cuentasId = [
     correo: "erick.villa.olimpica@gmail.com",
     id: "m0ltyVsxnVS11nSlhqlDrEQ2PfG3",
   },
+  {
+    correo: "atheranmorales@correo.unicordoba.edu.co",
+    id: "LR0cWFDJKQYVUSJIwmzi6Qy3qDQ2",
+  },
 ];
 export const escenarios = [
   {
