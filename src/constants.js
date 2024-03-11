@@ -31,6 +31,10 @@ export const cuentasId = [
     correo: "atheranmorales@correo.unicordoba.edu.co",
     id: "LR0cWFDJKQYVUSJIwmzi6Qy3qDQ2",
   },
+  {
+    correo: "andrep020318@gmail.com",
+    id: "j3oYToLSK1O3IHMCr3IIFPyXzGB2",
+  }
 ];
 export const escenarios = [
   {
@@ -50,4 +54,5 @@ export const horarios = [
   "HORARIO DE 18:00 - 19:00",
   "HORARIO DE 19:00 - 20:00",
   "HORARIO DE 20:00 - 21:00",
+  "HORARIO DE 21:00 - 22:00",
 ];
