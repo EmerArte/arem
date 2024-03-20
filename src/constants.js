@@ -20,21 +20,21 @@ export const cuentasId = [
     id: "lIFfG7zWSBVOTPUHao50sCzxyV62",
   },
   {
+    correo: "sebasalvira2308@gmail.com",
+    id: "Imukv2AFehcLBW4pMXO5jxMdjGn1",
+  },
+  {
     correo: "andrestm585@gmail.com",
     id: "BJz0ptX3rkWueUeBpiwg7z0COIn2",
+  },
+  {
+    correo: "mateoagamez123@gmail.com",
+    id: "YxoGhPjlxIhUROZJCgaCGfKF8YO2",
   },
   {
     correo: "erick.villa.olimpica@gmail.com",
     id: "m0ltyVsxnVS11nSlhqlDrEQ2PfG3",
   },
-  {
-    correo: "atheranmorales@correo.unicordoba.edu.co",
-    id: "LR0cWFDJKQYVUSJIwmzi6Qy3qDQ2",
-  },
-  {
-    correo: "andrep020318@gmail.com",
-    id: "j3oYToLSK1O3IHMCr3IIFPyXzGB2",
-  }
 ];
 export const escenarios = [
   {
