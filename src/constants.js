@@ -4,8 +4,8 @@ export const cuentasId = [
     id: "GnwCTSJS24ZGHQjq0UIXtmXhaw72",
   },
   {
-    correo: "yuranyacosta26@gmail.com",
-    id: "P43M0D4JU4di258kNTnwQSzuEJ13",
+    correo: "tibisaypetro30@gmail.com",
+    id: "HF6f0TaXGlPLj83kcExlN4pPzCe2",
   },
   {
     correo: "perciyt@gmail.com",
