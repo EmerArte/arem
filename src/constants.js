@@ -35,6 +35,10 @@ export const cuentasId = [
     correo: "erick.villa.olimpica@gmail.com",
     id: "m0ltyVsxnVS11nSlhqlDrEQ2PfG3",
   },
+   {
+    correo: "Mateoagamez123@gmail.com",
+    id: "YxoGhPjlxIhUROZJCgaCGfKF8YO2",
+  },
 ];
 export const escenarios = [
   {
