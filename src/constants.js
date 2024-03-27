@@ -8,6 +8,10 @@ export const cuentasId = [
     id: "HF6f0TaXGlPLj83kcExlN4pPzCe2",
   },
   {
+    correo: "elkin1997@yopmail.com",
+    id: "tas7cmdpwHaz1pfGp65GMxMPOFf1",
+  },
+  {
     correo: "perciyt@gmail.com",
     id: "wqnMTwuowkcWZikuob27A5hTyd82",
   },
