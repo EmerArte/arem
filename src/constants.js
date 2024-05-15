@@ -28,6 +28,10 @@ export const cuentasId = [
     id: "Imukv2AFehcLBW4pMXO5jxMdjGn1",
   },
   {
+    correo: "luisjimenezh8@gmail.com",
+    id: "daPIIJ5Q8AcTZ8uKAp7IfH9e4Ei2",
+  },
+  {
     correo: "andrestm585@gmail.com",
     id: "BJz0ptX3rkWueUeBpiwg7z0COIn2",
   },
@@ -51,7 +55,7 @@ export const escenarios = [
   },
   {
     nombre:
-      "Cancha de vóleibol playa unidad recreo deportiva de la Villa Occidente",
+      "Villa Olímpica de Occidente - Cancha de vóleibol playa",
     id: "lQl4WWeOQEjHY6JGV1Iw",
   },
 ];
@@ -63,4 +67,5 @@ export const horarios = [
   "HORARIO DE 19:00 - 20:00",
   "HORARIO DE 20:00 - 21:00",
   "HORARIO DE 21:00 - 22:00",
+  "HORARIO DE 22:00 - 23:00",
 ];
