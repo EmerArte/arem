@@ -46,7 +46,7 @@ export const cuentasId = [
 ];
 export const escenarios = [
   {
-    nombre: "Cancha de fútbol 10 unidad recreo deportiva de la Villa Occidente",
+    nombre: "Villa Olímpica de Occidente - Cancha de fútbol 10",
     id: "TCdUVRK4S8W313qcroD9",
   },
   {
